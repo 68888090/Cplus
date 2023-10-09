@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\刘浩然\OneDrive\文档\刘浩然的c语言\五子棋\五子棋\源.cpp(190,13): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\刘浩然\OneDrive\文档\刘浩然的c语言\五子棋\五子棋\源.cpp(99): warning C4715: “pepa”: 不是所有的控件路径都返回值
+  五子棋.vcxproj -> C:\Users\刘浩然\OneDrive\文档\刘浩然的c语言\五子棋\x64\Debug\五子棋.exe
